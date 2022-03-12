@@ -1,0 +1,7 @@
+﻿  EXPRESSION_TREE.cpp
+  Source.cpp
+C:\Users\Hani\source\repos\EXPRESSION_TREE\EXPRESSION_TREE\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xkeycheck.h(309,1): warning C4005: 'nullptr': macro redefinition
+C:\Users\Hani\source\repos\EXPRESSION_TREE\EXPRESSION_TREE\EXPRESSION_TREE.h(29): message : see previous definition of 'nullptr'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xkeycheck.h(311,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define.
+  Generating Code...
